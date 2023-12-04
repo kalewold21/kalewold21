@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalewold21
-- 👀 I’m interested in tech like software development, blockchain and building something impactful
+- 👀 I’m interested in tech like software development, machine learning and building something impactful
 - 🌱 I’m currently learning software and blockchain development
 - 💞️ I’m looking to collaborate on solving a real world problem
 - 📫 How to reach me kalewoldhu21@gmail.com
