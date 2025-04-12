@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kalewold21
+- 👋 Hi, I’m kalewold
 - 👀 I’m interested in tech like software development, machine learning and I like building something impact full and solving real world problem using ai technology
-- 🌱 I’m currently learning software development using languages Html, css, python, javascript, node Js, express, React and looking forward into machine learning
+- 🌱 I’m currently learning software development and built several projects using python, javascript, node Js, express, React --
+- Learning AI and machine learning building projects 
 - 💞️ I’m looking to collaborate on solving a real world problem
 - 📫 You can reach me kalewoldhu21@gmail.com
 
